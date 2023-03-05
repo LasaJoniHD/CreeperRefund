@@ -1,0 +1,6 @@
+main: joni.creeper.refund.CreeperRefund
+name: CreeperRefund
+version: 1.0
+author: LasaJoni
+api-version: 1.13
+description: CreeperRefund returns all blocks when a creeper explodes.
